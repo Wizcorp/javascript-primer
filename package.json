@@ -4,6 +4,7 @@
   "description": "JavaScript primer for Wizard Academy",
   "main": "index.js",
   "scripts": {
+    "hogehoge": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marc Trudel <mtrudel@wizcorp.jp>",
