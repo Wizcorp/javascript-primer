@@ -1,0 +1,11 @@
+{
+  "name": "javascript-primer",
+  "version": "1.0.0",
+  "description": "JavaScript primer for Wizard Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Trudel <mtrudel@wizcorp.jp>",
+  "license": "SEE LICENSE IN License.md"
+}
